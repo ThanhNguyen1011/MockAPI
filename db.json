@@ -1,4 +1,19 @@
 {
+    "users": {
+        "data": {
+          "id": 1,
+          "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+          "gender": 1,
+          "birthday": "2018-12-06T02:36:54.026Z",
+          "self_introduction": "",
+          "nickname": "John Jerry",
+          "following": 30,
+          "follower": "400",
+          "level": 30,
+          "point_total": 12,
+          "coin_total": 200
+        }
+      },
     "following":{
       "data": [
       {
@@ -36,7 +51,13 @@
         "following": 54,
         "follower": 13
       }
-    ]},
+    ],
+    "meta": {
+      "current_page": 1,
+      "next_page": 2,
+      "prev_page": 0,
+      "per_page": 5
+    }},
     "posts": [
   
       { "id": 1, "title": "Post 1" },
