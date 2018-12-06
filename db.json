@@ -1,5 +1,42 @@
 {
-
+    "following":{
+      "data": [
+      {
+        "id": "1",
+        "nickname": "nickname 1",
+        "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+        "following": 29,
+        "follower": 1
+      },
+      {
+        "id": "2",
+        "nickname": "nickname 2",
+        "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+        "following": 49,
+        "follower": 48
+      },
+      {
+        "id": "3",
+        "nickname": "nickname 3",
+        "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+        "following": 1,
+        "follower": 83
+      },
+      {
+        "id": "4",
+        "nickname": "nickname 4",
+        "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+        "following": 98,
+        "follower": 20
+      },
+      {
+        "id": "5",
+        "nickname": "nickname 5",
+        "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+        "following": 54,
+        "follower": 13
+      }
+    ]},
     "posts": [
   
       { "id": 1, "title": "Post 1" },
