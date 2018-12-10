@@ -10,8 +10,8 @@
           "following": 30,
           "follower": "400",
           "level": 30,
-          "point_total": 12,
-          "coin_total": 200
+          "current_point": 12,
+          "current_coin": 200
         }
       },
     "following":{
