@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+        "user": 
+        {
+            "id": 1,
+            "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_user_bookshelf.png?alt=media&token=8e9cc717-8418-45b8-9c9d-aec6b82a3c3f",
+            "nickname": "Yasunobu Koide"
+        }
+        ,"productions": [
+        {
+          "id": 1,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_3.png?alt=media&token=e1e8d087-3729-48c6-ac56-6fe1a44aecf7",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 2,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_1.png?alt=media&token=b5069615-22db-4101-885b-c38249c29665",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 3,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/item2.png?alt=media&token=074fba89-91db-42ac-87c6-3ee8cdc60d4c",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        }
+      ]
+    },
+    {
+        "user":{
+            "id": 2,
+            "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_user_bookshelf.png?alt=media&token=8e9cc717-8418-45b8-9c9d-aec6b82a3c3f",
+            "nickname": "Gary A. Avila"
+        }
+        ,"productions": [
+        {
+          "id": 1,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_3.png?alt=media&token=e1e8d087-3729-48c6-ac56-6fe1a44aecf7",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 2,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_1.png?alt=media&token=b5069615-22db-4101-885b-c38249c29665",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 3,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/item2.png?alt=media&token=074fba89-91db-42ac-87c6-3ee8cdc60d4c",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        }
+      ]
+    },
+    {
+        "user":{
+            "id": 3,
+            "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_user_bookshelf.png?alt=media&token=8e9cc717-8418-45b8-9c9d-aec6b82a3c3f",
+            "nickname": "Rhys Carter"
+        }
+        ,"productions": [
+        {
+          "id": 1,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_3.png?alt=media&token=e1e8d087-3729-48c6-ac56-6fe1a44aecf7",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 2,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_1.png?alt=media&token=b5069615-22db-4101-885b-c38249c29665",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 3,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/item2.png?alt=media&token=074fba89-91db-42ac-87c6-3ee8cdc60d4c",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        }
+      ]
+    },
+    {
+        "user": {
+            "id": 4,
+            "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_user_bookshelf.png?alt=media&token=8e9cc717-8418-45b8-9c9d-aec6b82a3c3f",
+            "nickname": "Yasunobu Koide"
+        },"productions": [
+        {
+          "id": 1,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_3.png?alt=media&token=e1e8d087-3729-48c6-ac56-6fe1a44aecf7",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 2,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_1.png?alt=media&token=b5069615-22db-4101-885b-c38249c29665",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 3,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/item2.png?alt=media&token=074fba89-91db-42ac-87c6-3ee8cdc60d4c",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        }
+      ]
+    },
+    {
+        user:{
+            "id": 5,
+            "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_user_bookshelf.png?alt=media&token=8e9cc717-8418-45b8-9c9d-aec6b82a3c3f",
+            "nickname": "Yasunobu Koide"
+        }
+        ,"productions": [
+        {
+          "id": 1,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_3.png?alt=media&token=e1e8d087-3729-48c6-ac56-6fe1a44aecf7",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 2,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_hot_manga_1.png?alt=media&token=b5069615-22db-4101-885b-c38249c29665",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        },
+        {
+          "id": 3,
+          "thumb_image": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/item2.png?alt=media&token=074fba89-91db-42ac-87c6-3ee8cdc60d4c",
+          "production_title": "Yasunobu Koide",
+          "list_overview": "子供のころ大好きだった本。まだ読書の習慣が身につく前、きょうだい一緒に母から読み聞かせてもらったことをぼんやり覚えている",
+          "author_name": "くるみ亮"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "next_page": 2,
+    "prev_page": 0,
+    "per_page": 5
+  }
+}

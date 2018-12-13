@@ -3,6 +3,7 @@
         "data": {
           "id": 1,
           "profile_picture": "https://firebasestorage.googleapis.com/v0/b/orderdcl-c1e3f.appspot.com/o/ic_recommend_author.png?alt=media&token=54daf7d0-1ddd-4efb-b418-2a17ed0fe8d2",
+          "mail_address": "user@gmail.com",
           "gender": 1,
           "birthday": "2018-12-06T02:36:54.026Z",
           "self_introduction": "",
